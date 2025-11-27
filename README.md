@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Harsh!
-👩🏻‍💻 Python Django and NextJs developer and data analyst sharing my journey and learnings in tech<br/>
+👩🏻‍💻 Python Django and NextJs developer sharing my journey and learnings in tech<br/>
 
 
 
